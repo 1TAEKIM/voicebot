@@ -1,2 +1,3 @@
 ffmpeg
-libmysqlclient-dev
+libmariadb-dev-compat
+libmariadb-dev
